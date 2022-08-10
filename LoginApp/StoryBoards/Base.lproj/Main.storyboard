@@ -148,6 +148,7 @@
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="u0O-B3-Jjd" customClass="TabBarController" customModule="LoginApp" customModuleProvider="target" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="0vp-83-hVC">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
@@ -201,10 +202,10 @@
             </objects>
             <point key="canvasLocation" x="-143" y="1276"/>
         </scene>
-        <!--View Controller-->
+        <!--User Bio View Controller-->
         <scene sceneID="ZlL-YX-DMO">
             <objects>
-                <viewController id="4CQ-5x-0ow" sceneMemberID="viewController">
+                <viewController id="4CQ-5x-0ow" customClass="UserBioViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="XRw-w3-Mtb">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

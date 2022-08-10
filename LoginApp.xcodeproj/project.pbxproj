@@ -17,6 +17,7 @@
 		C65A390828992A000035D013 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C65A3907289929FF0035D013 /* WelcomeViewController.swift */; };
 		C6DBF7F828A2E532007C430A /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DBF7F728A2E532007C430A /* User.swift */; };
 		C6DBF7FA28A2F3BB007C430A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DBF7F928A2F3BB007C430A /* SceneDelegate.swift */; };
+		C6DBF7FC28A398AD007C430A /* UserBioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DBF7FB28A398AD007C430A /* UserBioViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		C65A3907289929FF0035D013 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		C6DBF7F728A2E532007C430A /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		C6DBF7F928A2F3BB007C430A /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C6DBF7FB28A398AD007C430A /* UserBioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserBioViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				C613096028A2B94E00186A2E /* TabBarController.swift */,
 				C65A3907289929FF0035D013 /* WelcomeViewController.swift */,
 				C613096228A2BAC200186A2E /* UserInfoViewController.swift */,
+				C6DBF7FB28A398AD007C430A /* UserBioViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				C6DBF7F828A2E532007C430A /* User.swift in Sources */,
 				C65A390828992A000035D013 /* WelcomeViewController.swift in Sources */,
 				C65A38F02894006D0035D013 /* AppDelegate.swift in Sources */,
+				C6DBF7FC28A398AD007C430A /* UserBioViewController.swift in Sources */,
 				C613096128A2B94E00186A2E /* TabBarController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
