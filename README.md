@@ -18,6 +18,8 @@ In this project  I learned, how to work with:
 - UIAlertController
 -  Combined different screens 
 
+## Framework 
+UIkit
 
 ## Architectural pattern
 MVC
