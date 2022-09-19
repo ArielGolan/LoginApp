@@ -4,9 +4,7 @@
 Simple iOS app for credential verification.  Built with swift using UIKit.
 
 
-https://i.postimg.cc/s1dqqnnY/Simulator-Screen-Recording-i-Phone-13-mini-2022-09-18-at-20-24-21.gif
-
-
+![Simulator Screen Recording - iPhone 13 mini - 2022-09-18 at 20 24 21](https://user-images.githubusercontent.com/104303173/191015433-7e436be1-59b6-4162-9dc9-4cddd3540054.gif)
 
 ## Lessons Learned
 
@@ -21,7 +19,7 @@ In this project  I learned, how to work with:
 -  Combined different screens 
 
 
-## Architectural pattern: 
+## Architectural pattern
 MVC
 
 ## Language
