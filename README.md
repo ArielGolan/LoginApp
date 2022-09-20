@@ -1,7 +1,7 @@
 
 # LoginApp 👨‍💻
 
-Simple iOS app for credential verification.  Built with swift using UIKit.
+Simple iOS app for credential verification.  Built with Swift using UIKit.
 
 
 ![Simulator Screen Recording - iPhone 13 mini - 2022-09-18 at 20 24 21](https://user-images.githubusercontent.com/104303173/191015433-7e436be1-59b6-4162-9dc9-4cddd3540054.gif)
